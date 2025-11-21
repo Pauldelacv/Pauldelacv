@@ -10,6 +10,6 @@
 
 ###
 
-<p align="left">✨ Crafting designs since 2016<br>📚 I'm currently learning LLMs deployments</p>
+<p align="left">✨ Crafting designs since 2016<br>🤖 Working on Corta<br>📚 I'm currently learning LLMs deployments</p>
 
 ###
