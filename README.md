@@ -10,4 +10,4 @@
 
 ###
 
-<p align="left">✨ Crafting designs since 2016<br>🤖 Working as FDE & prospection automatisation<br> Still graphic designing by passion 📚</p>
+<p align="left">✨ Crafting designs since 2016<br>🤖 Working as FDE & prospection automatisation<br>📚 Still graphic designing by passion </p>
