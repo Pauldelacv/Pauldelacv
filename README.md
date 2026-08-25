@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Hi, I'm Paul, I master product, motion and Brand design. Valuable character, feel free to drop an email!</p>
+<p align="left">I'm Paul. Designer by background. Product-minded. Increasingly technical. Building tools, products and AI-powered workflows. Feel free to drop an email!</p>
 
 ###
 
@@ -10,4 +10,4 @@
 
 ###
 
-<p align="left">✨ Crafting designs since 2016<br>🤖 Working on Corta & prospection automatisation<br>📚 I'm currently learning LLMs deployments</p>
+<p align="left">✨ Crafting designs since 2016<br>🤖 Working as FDE & prospection automatisation 📚</p>
