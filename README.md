@@ -11,4 +11,4 @@
 ###
 
 <p align="left">✨ Crafting designs since 2016<br>🤖 Working as FDE & prospection automatisation<br>📚 Still graphic designing by passion </p>
-<a href="paulcv.fr" target="_blank">paulcv.fr</a>
+<a href="https://paulcv.fr" target="_blank" rel="noopener noreferrer">paulcv.fr</a>
