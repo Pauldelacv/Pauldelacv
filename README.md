@@ -10,6 +10,7 @@
 <h2 align="left">About me</h2>
 
 ###
+<img src="https://paulcv.fr/assets/avatar.png" alt="Paul CV" width="120">
 
 <p align="left">✨ Crafting designs since 2016<br>🤖 Working as FDE & prospection automatisation<br>📚 Still graphic designing by passion </p>
 <a href="https://paulcv.fr" target="_blank" rel="noopener noreferrer">paulcv.fr</a>
@@ -20,6 +21,7 @@
 <a href="https://corta.fr/">
   <img src="https://corta.fr/assets/logo.svg" alt="Corta" width="120">
 </a>
+<br><br>
 
 Building private AI agents deployed on-premise, connected to company data and workflows.
 
